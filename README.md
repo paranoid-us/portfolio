@@ -36,5 +36,14 @@ Overall, this portfolio is a well-structured, aesthetically pleasing, and highly
 
 # OUTPUT
 
+<img width="1330" height="674" alt="Image" src="https://github.com/user-attachments/assets/a9157fb2-6a89-4cf3-a0a2-bd47810e7dde" />
+
+<img width="1337" height="677" alt="Image" src="https://github.com/user-attachments/assets/bfbdf92d-1e67-4eb8-880f-8f802a6031ab" />
+
+<img width="1338" height="677" alt="Image" src="https://github.com/user-attachments/assets/f93a873d-9925-47a8-98a1-b86b0ff9286f" />
+
+<img width="1351" height="681" alt="Image" src="https://github.com/user-attachments/assets/e0e20b6c-0294-4085-87a7-122ed2742b59" />
+
+
 
 
