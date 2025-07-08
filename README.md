@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-# **DESCRIPTION OF THE PERSONAL PORTFOLIO WEBPAGE
+# **DESCRIPTION OF THE PERSONAL PORTFOLIO WEBPAGE**
 
 The **Muskan Jha Developer Portfolio** is a fully responsive and modern personal website crafted to serve as a professional digital portfolio. Built using **HTML**, **Tailwind CSS**, and **JavaScript**, it is designed to be elegant, intuitive, and engaging for visitors such as recruiters, collaborators, and potential clients. The main goal of the website is to showcase Muskan’s development skills, featured projects, and provide a way to initiate contact—all in a clean, well-organized single-page layout.
 
