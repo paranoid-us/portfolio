@@ -34,7 +34,7 @@ From a technical standpoint, the site relies heavily on **Tailwind CSS utility c
 
 Overall, this portfolio is a well-structured, aesthetically pleasing, and highly functional website that effectively represents the skills and personality of the developer. It balances professional presentation with subtle personality, making it a strong tool for networking, showcasing work, and building a personal brand in the digital space.
 
-##OUTPUT
+# OUTPUT
 
 
 
